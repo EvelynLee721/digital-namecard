@@ -102,7 +102,6 @@ img.profile-pic {
 	flex: none;
 	width: 70%;
 }
-
 .col.is-8 {
 	flex: none;
 	width: 80%;
@@ -135,7 +134,7 @@ img.profile-pic {
 }
 
 .bg-color-green {
-	background-color: #F00673E;
+	background-color: #00673E;
 }
 
 .bg-color-white {
